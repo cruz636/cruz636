@@ -3,7 +3,7 @@
 My name is Juan Cruz and I am 24 years old. I am a Full Stack Web Developer.
  Self-tought Python programmer. I dabbled into machine learning the last year but left it because I decided to grow as a full stack developer first( baby steps 🐥 ).  
  
-- 🤖 I’m currently working at Crowdbotics 
+- 🤖 I’m currently working at [Crowdbotics](https://www.crowdbotics.com/) 
 - 🌱 I’m currently learning Switf 
 - 🎙 Fun fact: I am working on a Podcast about books and tutorials for Django, feel free to recommend me one of your favorites 
 
@@ -13,7 +13,7 @@ My name is Juan Cruz and I am 24 years old. I am a Full Stack Web Developer.
 
 
 ## Certifications:
-- FullStack Developer at Henry.
+- FullStack Developer at [Henry](https://www.soyhenry.com).
 - Hacking for Beginners: Take the Power of Control of Remote Systems into Your Hands (BitDegree)
 - Advanced use of Linux ( Ubuntu,Kali-Linux, Fedora) y Windows( xp, 7 y 10), Git,Slack,Trello.
 - Advanced knowledge about security and web vulnerabilities.
