@@ -33,6 +33,6 @@ My name is Juan Cruz and I am 24 years old. I am a Full Stack Web Developer.
 
 
 ### Contact me 
-[<img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>](juanbarcruz96@gmail.com) [<img src="https://img.icons8.com/nolan/64/github.png"/>](https://github.com/cruz636)  [<img src="https://img.icons8.com/office/16/000000/linkedin.png" height='40'/>](https://www.linkedin.com/in/juan-cruz-barneix/) 
+[<img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>](juanbarcruz96@gmail.com) [<img src="https://img.icons8.com/nolan/64/github.png"/>](https://github.com/cruz636)  [<img src="https://img.icons8.com/office/16/000000/linkedin.png" height='40'/>](https://www.linkedin.com/in/juan-cruz-barneix-9a0a17188/) 
 
 
